@@ -29,7 +29,7 @@ var food = "Bariis"
 console.log(food);
 
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
-var pets = 0c
+var pets = 0
 console.log(pets);
 
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
